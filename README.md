@@ -1,4 +1,4 @@
-![Foto 3 x 4 Jovian Hitam Putih](https://github.com/JonathanUlhaq/Chatbot-WebView/assets/73418941/c744b211-3866-4b01-b3ed-8947bd324d9e)# Dokumentasi Penggunaan WebView
+# Dokumentasi Penggunaan WebView
 
 ### Langkah 1: Menambahkan Izin Internet
 tambahkan  internet permission di didalam file 'AndroidManifest.xml':
