@@ -28,6 +28,8 @@ setting URL pada webView, arahkan URL ke alamat chatbot dan aktifkan mode webVie
         webViiew.settings.javaScriptEnabled = true
 ```
 
+#### Jika membuat webView dengan konsep FAB ( Floating action button ) disarankan menggunakan show / gone untuk memunculkan webView chatbot agar tampilan tidak menumpuk
+
 ## Contoh Hasil
 ![WhatsApp Image 2023-12-14 at 14 44 48](https://github.com/JonathanUlhaq/Chatbot-WebView/assets/73418941/609770c3-43de-4b32-8528-5df6a4546cfe)
 
